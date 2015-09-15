@@ -65,5 +65,6 @@ public class MainClass {
 		System.out.println("---¼ÆËã½á¹û---");
 		System.out.println(strNum1 + oper + strNum2 + "=" + result);
 			
+		scanner.close();
 	}
 }
